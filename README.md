@@ -2,7 +2,7 @@
 
 #### La vizualización de los logros en tu perfil es completamente opcional, de forma predeterminada y pueden ser vistos por cualquier persona que vea tu perfil público.
 
-Puedes optar por no mostrar los logros en su perfil yendo a su [configuración de perfil] (https://github.com/settings).
+Puedes optar por no mostrar los logros en su perfil yendo a su [configuración de perfil](https://github.com/settings).
 
 <br>
 
@@ -30,11 +30,11 @@ Algunos Logros tienen niveles.
 | --- | :---: | :---: | :---: | :---: |
 | **Starstruck** | ![Inicio Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Insignia de bronce Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png) | ![Insignia de plata Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png) | ![Insignia dorada Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png) |
 | | 16 estrellas | 128 estrellas | 512 estrellas | 4096 estrellas <br>[@torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements) |
-| **Pair Extraordinaire** | ![Значок Pair Extraordinaire][pe-default] | ![Insignia de bronce Pareja Extraordinaria][pe-bronce] | ![Insignia de plata Pareja Extraordinaria][pe-plata] | ![Distintivo de oro Pareja Extraordinaria][pe-oro] |
+| **Pair Extraordinaire** | ![Значок Pair Extraordinaire][pe-default] | ![Bronze badge Pair Extraordinaire][pe-bronze] | ![Silver badge Pair Extraordinaire][pe-silver] | ![Gold badge Pair Extraordinaire][pe-gold] |
 | | 1 solicitudes de incorporación <br>[@gomzyakov](https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements) | 10 solicitudes de incorporación | 24 solicitudes de incorporación | 48 solicitudes de incorporación <br>[@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements) |
-| **Pull Shark** | ![Personalizar Pull Shark][ps-default] | ![Distintivo de bronce Pull Shark][ps-bronce] | ![Distintivo de plata Pull Shark][ps-silver] | ![Distintivo de oro Pull Shark][ps-gold] |
+| **Pull Shark** | ![Personalizar Pull Shark][ps-default] | ![Bronze badge Pull Shark][ps-bronze] | ![Silver badge Pull Shark][ps-silver] | ![Distintivo de oro Pull Shark][ps-gold] |
 | | 2 solicitudes de incorporación | 16 solicitudes de incorporación | 128 solicitudes de incorporación | 1024 solicitudes de incorporación <br>[@ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements) |
-| **Galaxy Brain** | ![Configurar Galaxy Brain][gb-default] | ![Insignia de bronce Galaxy Brain][gb-bronce] | ![Insignia de plata Galaxy Brain][gb-silver] | ![Insignia dorada Galaxy Brain][gb-gold] |
+| **Galaxy Brain** | ![Configurar Galaxy Brain][gb-default] | ![Bronze badge Galaxy Brain][gb-bronze] | ![Insignia de plata Galaxy Brain][gb-silver] | ![Insignia dorada Galaxy Brain][gb-gold] |
 | | 2 respuestas | 8 respuestas | 16 respuestas | 32 respuestas <br>[@ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements) |
 | **Heart On Your Sleeve** | ![Corazón en la manga](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | ![Insignia de bronce Corazón en tu manga](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png) | ![Insignia de plata Corazón en tu manga](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png) | ![Insignia dorada Corazón en tu manga](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png) |
 | | ??? | ??? | ??? | ??? |
@@ -72,8 +72,8 @@ Puede cambiar tu tono de piel preferido yendo a [configuración de apariencia] (
 
 | **Insignia** | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Starstruck** | ![Tono de piel predeterminado de Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Tono de piel claro de Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png) | ![Tono de piel claro-medio de Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png) | ![Tono de piel medio de Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png) | ![Tono de piel oscuro medio de Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png) | ![Tono de piel oscuro de Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png) |
-| **Quickdraw** | ![Tono de piel predeterminado de Quickdraw][q-default] | ![Tono de piel claro de Quickdraw][q-light] | ![Tono de piel claro-medio de Quickdraw][q-claro-medio] | ![Tono de piel medio de Quickdraw][q-medium] | ![Tono de piel medio oscuro de Quickdraw][q-medio-oscuro] | ![Tono de piel oscuro de Quickdraw][q-dark] |
+| **Starstruck** | ![Tono de piel predeterminado de Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Tono de piel claro de Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png) | ![Light-medium skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png) | ![Tono de piel medio de Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png) | ![Tono de piel oscuro medio de Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png) | ![Tono de piel oscuro de Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png) |
+| **Quickdraw** | ![Tono de piel predeterminado de Quickdraw][q-default] | ![Tono de piel claro de Quickdraw][q-light] | ![Light-medium skin tone of Quickdraw][q-light-medium] | ![Tono de piel medio de Quickdraw][q-medium] | ![Medium-dark skin tone of Quickdraw][q-medium-dark] | ![Tono de piel oscuro de Quickdraw][q-dark] |
 
 [s-light]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png
 [s-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png
@@ -89,6 +89,7 @@ Puede cambiar tu tono de piel preferido yendo a [configuración de apariencia] (
 [q-dark]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--dark.png
 
 <br>
+
 ## Insignias destacadas
 
 | Insignia | Nombre | Como llegar |
@@ -96,9 +97,9 @@ Puede cambiar tu tono de piel preferido yendo a [configuración de apariencia] (
 | ![Insignia negra GitHub Pro](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![Insignia blanca GitHub Pro ](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only) | **Profesional** | Ser [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
 | ![Discusión de la insignia oscura respondida](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Discusión de la insignia clara respondida ](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discusión respondida** | Lograr que su respuesta a una discusión se marque como la respuesta correcta |
 | ![Miembro del programa de desarrollador de insignia oscura](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![Desarrollador de insignia ligera Miembro del programa](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | **Miembro del Programa de Desarrolladores** | Ser un miembro registrado del [Programa para desarrolladores de GitHub](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)! [security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | ** Cazarrecompensas de errores de seguridad ** | Ayudó a buscar vulnerabilidades de seguridad en [GitHub Security](https://bounty.github.com/) |
+| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)! [security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Cazarrecompensas de errores de seguridad** | Ayudó a buscar vulnerabilidades de seguridad en [GitHub Security](https://bounty.github.com/) |
 | ![Insignia clara GitHub Campus Expert][gce-dark]![Insignia oscura GitHub Campus Expert][gce-light] | **Experto en el campus de GitHub** | Haber participado en el [Programa Campus GitHub](https://education.github.com/experts) |
-| ![Distintivo oscuro Crédito de aviso de seguridad][SAC-oscuro]![Distintivo claro Crédito de aviso de seguridad][SAC-claro] | **Crédito de asesoramiento de seguridad** | Lograr que se envíe su aviso de seguridad a la [Base de datos de avisos de GitHub](https://github.com/advisories) sea aceptada |
+| ![Dark badge Security advisory credit][SAC-dark]![Light badge Security advisory credit][SAC-light] | **Crédito de asesoramiento de seguridad** | Lograr que se envíe su aviso de seguridad a la [Base de datos de avisos de GitHub](https://github.com/advisories) sea aceptada |
 
 [gce-dark]: https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only
 [gce-light]: https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only
