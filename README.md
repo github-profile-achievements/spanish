@@ -10,15 +10,15 @@ Puedes optar por no mostrar los logros en su perfil yendo a su [configuración d
 | :---: | --- | --- |
 | ![Insignia de logro Corazón en la manga](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | ??? |
 | ![Insignia de logro Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | ??? |
-| ![Insignia de logro Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Crear un repositorio y obtener **16 estrellas** o [más](#Badge-tiers). |
+| ![Insignia de logro Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Crear un repositorio y obtener **16 estrellas** o [más](#Blogros-por-tono-de-piel). |
 | ![Insignia de logro Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | Cerrar un ticket o una solicitud de integración (PR) dentro de los 5 minutos posteriores a la apertura. |
-| ![Insignia de logro Par extraordinario](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Ser co-autor en una solicitud de integración fusionada **dos** o [más](#Badge-tiers). |
-| ![Insignia de logro Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | **Pull Shark** | **2 solicitudes de integración** fusionadas (o [más](#Badge-tiers)). |
-| ![Insignia de logro Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | 2 respuestas aceptadas o [más](#Badge-tiers). |
+| ![Insignia de logro Par extraordinario](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Ser co-autor en una solicitud de integración fusionada **dos** o [más](#logros-por-tono-de-piel). |
+| ![Insignia de logro Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | **Pull Shark** | **2 solicitudes de integración** fusionadas (o [más](#logros-por-tono-de-piel)). |
+| ![Insignia de logro Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | 2 respuestas aceptadas o [más](#logros-por-tono-de-piel). |
 | ![Insignia de logro YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | Fusionar **al menos una** solicitud de incorporación de cambios sin revisión de código. |
 | ![Insignia de logro Patrocinador público](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Patrocinador público** | Patrocinar repositorios de código abierto a través de [GitHub Sponsors](https://github.com/sponsors). |
-| ![Insignia de logro Colaborador de Mars 2020](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Haber colaborado durante de marzo de 2020** | Código contribuido a los repositorios utilizados en la [Misión de helicóptero Mars 2020] (https://github.com/readme/featured/nasa-ingenuity-helicopter). *No más ingresos.* |
-| ![Insignia de logro Programa de archivo GitHub 2020](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Colaborador de Code Vault del Ártico** | Haber contribuido código a un repositorio en el [Programa de archivo GitHub 2020] (https://archiveprogram.github.com/). *No más ingresos.* |
+| ![Insignia de logro Colaborador de Mars 2020](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Haber colaborado durante de marzo de 2020** | Código contribuido a los repositorios utilizados en la [Misión de helicóptero Mars 2020](https://github.com/readme/featured/nasa-ingenuity-helicopter). *No más ingresos.* |
+| ![Insignia de logro Programa de archivo GitHub 2020](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Colaborador de Code Vault del Ártico** | Haber contribuido código a un repositorio en el [Programa de archivo GitHub 2020](https://archiveprogram.github.com/). *No más ingresos.* |
 
 <br>
 
@@ -66,7 +66,7 @@ Algunos Logros tienen niveles.
 
 La apariencia de algunos logros depende de tu preferencia de tono de piel Emoji.
 
-Puede cambiar tu tono de piel preferido yendo a [configuración de apariencia] (https://github.com/settings/appearance).
+Puede cambiar tu tono de piel preferido yendo a [configuración de apariencia](https://github.com/settings/appearance).
 
 <br>
 
@@ -94,10 +94,10 @@ Puede cambiar tu tono de piel preferido yendo a [configuración de apariencia] (
 
 | Insignia | Nombre | Como llegar |
 | --- | --- | --- |
-| ![Insignia negra GitHub Pro](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![Insignia blanca GitHub Pro ](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only) | **Profesional** | Ser [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
+| ![Insignia negra GitHub Pro](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only)![Insignia blanca GitHub Pro ](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only) | **Profesional** | Ser [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
 | ![Discusión de la insignia oscura respondida](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Discusión de la insignia clara respondida ](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discusión respondida** | Lograr que su respuesta a una discusión se marque como la respuesta correcta |
 | ![Miembro del programa de desarrollador de insignia oscura](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![Desarrollador de insignia ligera Miembro del programa](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | **Miembro del Programa de Desarrolladores** | Ser un miembro registrado del [Programa para desarrolladores de GitHub](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)! [security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Cazarrecompensas de errores de seguridad** | Ayudó a buscar vulnerabilidades de seguridad en [GitHub Security](https://bounty.github.com/) |
+| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Cazarrecompensas de errores de seguridad** | Ayudó a buscar vulnerabilidades de seguridad en [GitHub Security](https://bounty.github.com/) |
 | ![Insignia clara GitHub Campus Expert][gce-dark]![Insignia oscura GitHub Campus Expert][gce-light] | **Experto en el campus de GitHub** | Haber participado en el [Programa Campus GitHub](https://education.github.com/experts) |
 | ![Dark badge Security advisory credit][SAC-dark]![Light badge Security advisory credit][SAC-light] | **Crédito de asesoramiento de seguridad** | Lograr que se envíe su aviso de seguridad a la [Base de datos de avisos de GitHub](https://github.com/advisories) sea aceptada |
 
