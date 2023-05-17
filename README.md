@@ -8,8 +8,8 @@ Puedes optar por no mostrar los logros en su perfil yendo a su [configuración d
 
 | Insignia | Nombre | Como llegar |
 | :---: | --- | --- |
-| ![Insignia de logro Corazón en la manga](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | ??? |
-| ![Insignia de logro Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | ??? |
+| ![Insignia de logro Corazón en la manga](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | Reacciona a algo en GitHub con un emoji ❤️ **(En prueba)** |
+| ![Insignia de logro Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | El usuario tiene PRs combinados en múltiples repositorios públicos **(En prueba)** |
 | ![Insignia de logro Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Crear un repositorio y obtener **16 estrellas** o [más](#Blogros-por-tono-de-piel). |
 | ![Insignia de logro Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | Cerrar un ticket o una solicitud de integración (PR) dentro de los 5 minutos posteriores a la apertura. |
 | ![Insignia de logro Par extraordinario](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Ser co-autor en una solicitud de integración fusionada **dos** o [más](#logros-por-tono-de-piel). |
