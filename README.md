@@ -17,7 +17,7 @@ Puedes optar por no mostrar los logros en su perfil yendo a su [configuración d
 | ![Insignia de logro Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | 2 respuestas aceptadas o [más](#logros-por-tono-de-piel). |
 | ![Insignia de logro YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | Fusionar **al menos una** solicitud de incorporación de cambios sin revisión de código. |
 | ![Insignia de logro Patrocinador público](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Patrocinador público** | Patrocinar repositorios de código abierto a través de [GitHub Sponsors](https://github.com/sponsors). |
-| ![Insignia de logro Colaborador de Mars 2020](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Haber colaborado durante de marzo de 2020** | Código contribuido a los repositorios utilizados en la [Misión de helicóptero Mars 2020](https://github.com/readme/featured/nasa-ingenuity-helicopter). *No más ingresos.* |
+| ![Insignia de logro Colaborador de Mars 2020](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Haber colaborado en Misión Marte 2020** | Código contribuido a los repositorios utilizados en la [Misión de helicóptero Mars 2020](https://github.com/readme/featured/nasa-ingenuity-helicopter). *No más ingresos.* |
 | ![Insignia de logro Programa de archivo GitHub 2020](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Colaborador de Code Vault del Ártico** | Haber contribuido código a un repositorio en el [Programa de archivo GitHub 2020](https://archiveprogram.github.com/). *No más ingresos.* |
 
 <br>
@@ -64,9 +64,9 @@ Algunos Logros tienen niveles.
 
 ## Logros por tono de piel
 
-La apariencia de algunos logros depende de tu preferencia de tono de piel Emoji.
+La apariencia de algunos logros depende de tu preferencia de tono de piel del Emoji.
 
-Puede cambiar tu tono de piel preferido yendo a [configuración de apariencia](https://github.com/settings/appearance).
+Puede cambiar el tono de piel preferido del Emoji yendo a [configuración de apariencia](https://github.com/settings/appearance).
 
 <br>
 
