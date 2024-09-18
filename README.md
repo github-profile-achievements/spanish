@@ -10,7 +10,7 @@ Puedes optar por no mostrar los logros en tu perfil, accediendo a tu [configurac
 | :---: | --- | --- |
 | ![Insignia de logro Corazón en la manga](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | Reacciona a algo en GitHub con un emoji ❤️ **(En prueba)**. |
 | ![Insignia de logro Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | El usuario tiene PRs combinados en múltiples repositorios públicos **(En prueba)**. |
-| ![Insignia de logro Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Crear un repositorio y obtener **16 estrellas** o [más](#Blogros-por-tono-de-piel). |
+| ![Insignia de logro Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Crear un repositorio y obtener **16 estrellas** o [más](#logros-por-tono-de-piel). |
 | ![Insignia de logro Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | Cerrar una incidencia o una pull request dentro de los 5 minutos posteriores a la apertura. |
 | ![Insignia de logro Par extraordinario](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Ser coautor en una pull request de **dos** o [más](#logros-por-tono-de-piel) contribuyentes. |
 | ![Insignia de logro Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | **Pull Shark** | **2 pull requests** fusionadas (o [más](#logros-por-tono-de-piel)). |
