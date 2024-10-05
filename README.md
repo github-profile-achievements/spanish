@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Repository moved to https://github.com/gomzyakov/achievements
+
 # Listado completo de todas las insignias y logros para el perfil de GitHub
 
 #### La visualización de los logros en tu perfil es completamente opcional; por defecto, pueden ser vistos por cualquier persona que vea tu perfil público.
